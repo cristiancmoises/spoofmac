@@ -36,4 +36,4 @@ ifconfig enp6s0 up
 
 echo "*-----------------------------------------------*"
 echo -e "		  *\033[1;32m    🅷🅰🆅🅴 🅰 🅽🅸🅲🅴 🅳🅰🆈!    \033[0m*"
-echo -e "	   *\033[1;32mType macchanger --show wlan0 OR macchanger --show eth0\033[0m*"
+echo -e "	   *\033[1;32mType macchanger --show wlan0 OR macchanger --show enp6s0\033[0m*"
