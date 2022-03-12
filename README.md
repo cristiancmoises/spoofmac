@@ -1,4 +1,4 @@
-SPOOF ADDRESS - CHANGE YOUR MAC ADDRESS ON REBOOT!
+SPOOF MAC - CHANGE YOUR MAC ADDRESS ON REBOOT!
 -----------
 ![spoof](https://user-images.githubusercontent.com/86272521/158036393-e9df6c24-c152-481a-9c57-f6deee207fd8.png)
 
